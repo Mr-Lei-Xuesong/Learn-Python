@@ -55,6 +55,8 @@ print("-------------------")
 
 def my_function(child3, child2, child1):
     print("The youngest child is " + child3)
+    print("The youngest child is " + child2)
+    print("The youngest child is " + child1)
 
 
 my_function(child1="Phoebe", child2="Jennifer", child3="Rory")
